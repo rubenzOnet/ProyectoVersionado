@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Git\\Proyecto 2\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj": {}
+    "D:\\Curso Git\\Proyecto 2.1\\ProyectoVersionado\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj": {}
   },
   "projects": {
-    "D:\\Curso Git\\Proyecto 2\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj": {
+    "D:\\Curso Git\\Proyecto 2.1\\ProyectoVersionado\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Git\\Proyecto 2\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj",
+        "projectUniqueName": "D:\\Curso Git\\Proyecto 2.1\\ProyectoVersionado\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj",
         "projectName": "ProyVesionado",
-        "projectPath": "D:\\Curso Git\\Proyecto 2\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj",
+        "projectPath": "D:\\Curso Git\\Proyecto 2.1\\ProyectoVersionado\\ProyVesionado\\ProyVesionado\\ProyVesionado.csproj",
         "packagesPath": "C:\\Users\\Rubenz\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Git\\Proyecto 2\\ProyVesionado\\ProyVesionado\\obj\\",
+        "outputPath": "D:\\Curso Git\\Proyecto 2.1\\ProyectoVersionado\\ProyVesionado\\ProyVesionado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rubenz\\AppData\\Roaming\\NuGet\\NuGet.Config",
